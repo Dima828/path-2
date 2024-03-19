@@ -18,6 +18,7 @@
 
     <Button
         android:id="@+id/button"
+        android:onClick="Next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="161dp"
